@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bienvenidos to GSB</string>
+
+    <string name="game">Verdugo</string>
+    <string name="send">Mandar</string>
+    <string name="rejouer">Repetición</string>
+    <string name="github">Lista de Colaboradores</string>
+
+    <string-array name="Test">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gsb_tittle">Galaxy Swiss Bourdin</string>
+</resources>
